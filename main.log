@@ -1,0 +1,12 @@
+2020-11-17 23:34:53,173 - WARNING - No hay cambios el archivo. Es necesario reiniciar el servicio.
+2020-11-17 23:34:53,173 - WARNING - Ejecutando reinicio del servicio...
+2020-11-17 23:34:53,409 - INFO - Reinicio del servicio correcto. Comando valido: "echo test"
+2020-11-17 23:34:53,409 - INFO - Proceso de terminado.
+2020-11-17 23:35:03,409 - WARNING - No hay cambios el archivo. Es necesario reiniciar el servicio.
+2020-11-17 23:35:03,410 - WARNING - Ejecutando reinicio del servicio...
+2020-11-17 23:35:03,596 - INFO - Reinicio del servicio correcto. Comando valido: "echo test"
+2020-11-17 23:35:03,596 - INFO - Proceso de terminado.
+2020-11-17 23:35:13,597 - WARNING - No hay cambios el archivo. Es necesario reiniciar el servicio.
+2020-11-17 23:35:13,597 - WARNING - Ejecutando reinicio del servicio...
+2020-11-17 23:35:13,743 - INFO - Reinicio del servicio correcto. Comando valido: "echo test"
+2020-11-17 23:35:13,743 - INFO - Proceso de terminado.
